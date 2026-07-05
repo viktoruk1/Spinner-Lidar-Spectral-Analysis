@@ -2,7 +2,7 @@
 
 **Course:** Wind Physics Measurement Project (WPMP), Summer Semester 2026
 **Institution:** Carl von Ossietzky Universität Oldenburg
-**Group:** 4 — Victor Ukoha & Illechukwu Jackson
+**Student Name:**  Victor Ukoha
 
 ---
 
